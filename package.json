@@ -6,6 +6,7 @@
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "^29.3.1"
+    "jest": "^29.3.1",
+    "@jest/test-sequencer": "^29.3.1"
   }
 }
